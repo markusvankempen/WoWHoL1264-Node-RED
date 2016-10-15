@@ -380,3 +380,4 @@ var couchstorage = {
 };
 
 module.exports = couchstorage;
+
